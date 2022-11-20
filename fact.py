@@ -6,9 +6,3 @@ def fact(n):
 
 print(fact(5))
 
-
-
-l = [1, 2, 4]
-
-for i in range(10):
-    print(i)
